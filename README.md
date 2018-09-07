@@ -34,7 +34,7 @@ Kickstarter is one of the main online crowd funding platforms in the world. The 
 - **goal**: fundraising goal, _numeric_
 - **launched**: project's start date, _timestamp_
 - **pledged**: amount pledged by backers (project's currency), _numeric_
-- **state**: project's current state, _string_; **this is what you have to predict**
+- **state**: project's current state, _string_; **target variable**
 - **backers**: amount of poeple that backed the project, _numeric_
 - **country**: project's country, _string_
 - **usd pledged**: amount pledged by backers converted to USD (conversion made by KS), _numeric_
