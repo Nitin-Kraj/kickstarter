@@ -82,7 +82,6 @@ The notebook runner for classification:
 ```
 
 ## References
-[Nexus Edge aI interview code](https://bitbucket.org/nexusedge/ai-interview-code/src/master/)
 
 ## License
 MIT License
